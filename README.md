@@ -1,4 +1,7 @@
 Introduction
+Tool : MS. Excel 
+Visualization : Power BI
+Dataset : https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 This Power BI dashboard provides a comprehensive analysis of bicycle sales across various regions and dimensions. 
 It highlights key performance indicators such as revenue, profit, and order quantity, as well as insights into customer demographics and geographical sales distribution.
