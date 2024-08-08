@@ -1,7 +1,5 @@
 Introduction
-
 Tool : MS. Excel 
-
 Visualization : Power BI
 Dataset : https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
