@@ -1,6 +1,9 @@
 Introduction
+
 Tool : MS. Excel 
+
 Visualization : Power BI
+
 Dataset : https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe
 
 This Power BI dashboard provides a comprehensive analysis of bicycle sales across various regions and dimensions. 
